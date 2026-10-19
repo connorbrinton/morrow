@@ -33,3 +33,10 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Local Android/Python build outputs
+.gradle/
+**/build/
+local.properties
+__pycache__/
+dist/
